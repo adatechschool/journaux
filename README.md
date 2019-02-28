@@ -5,4 +5,5 @@ Ici nous allons mettre les divers journaux écrit durant les formations et stage
 ## Stage de découverte - Hiver 2019
 
 - [27 février 2019](20190227.md)
+- [28 février 2019](20190228.md)
 
